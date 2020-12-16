@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+I'm Dev Bhatt, a design-minded software engineer focused on building beautiful interfaces & experiences 🧑🏽‍💻
+
+To know more about me visit my website 🌍 at www.dmb4086.github.io
+
+
+
 <!--
 **dmb4086/dmb4086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
