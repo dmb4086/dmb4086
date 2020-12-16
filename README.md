@@ -3,8 +3,7 @@
 
 I'm Dev Bhatt, a design-minded software engineer focused on building beautiful interfaces & experiences 🧑🏽‍💻
 
-To know more about me visit my website 🌍 at www.dmb4086.github.io
-
+To know more about me visit my website 🌍 at https://dmb4086.github.io
 
 
 <!--
