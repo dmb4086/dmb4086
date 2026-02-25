@@ -8,11 +8,17 @@ To know more about me visit my website 🌍 at https://dmb4086.github.io
 
 -----
 
-<img align="center" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dmb4086&show_icons=true&hide_border=true" />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dmb4086/count.svg" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dmb4086&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Dev Bhatt's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmb4086&layout=compact&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
 </p>
 
 <!--
@@ -26,6 +32,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
